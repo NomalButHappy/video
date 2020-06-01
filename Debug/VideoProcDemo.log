@@ -1,0 +1,10 @@
+﻿  VideoProcDemo.cpp
+d:\迅雷下载\yuv视频播放的参考代码和yuv视频文件\videoprocdemo\videoprocdemo.cpp(37): warning C4838: 从“double”转换到“float”需要收缩转换
+d:\迅雷下载\yuv视频播放的参考代码和yuv视频文件\videoprocdemo\videoprocdemo.cpp(37): warning C4305: “初始化”: 从“double”到“float”截断
+d:\迅雷下载\yuv视频播放的参考代码和yuv视频文件\videoprocdemo\videoprocdemo.cpp(493): warning C4244: “+=”: 从“float”转换到“long”，可能丢失数据
+d:\迅雷下载\yuv视频播放的参考代码和yuv视频文件\videoprocdemo\videoprocdemo.cpp(494): warning C4244: “+=”: 从“float”转换到“long”，可能丢失数据
+d:\迅雷下载\yuv视频播放的参考代码和yuv视频文件\videoprocdemo\videoprocdemo.cpp(495): warning C4244: “+=”: 从“float”转换到“long”，可能丢失数据
+d:\迅雷下载\yuv视频播放的参考代码和yuv视频文件\videoprocdemo\videoprocdemo.cpp(498): warning C4244: “=”: 从“long”转换到“BYTE”，可能丢失数据
+d:\迅雷下载\yuv视频播放的参考代码和yuv视频文件\videoprocdemo\videoprocdemo.cpp(499): warning C4244: “=”: 从“long”转换到“BYTE”，可能丢失数据
+d:\迅雷下载\yuv视频播放的参考代码和yuv视频文件\videoprocdemo\videoprocdemo.cpp(500): warning C4244: “=”: 从“long”转换到“BYTE”，可能丢失数据
+  VideoProcDemo.vcxproj -> D:\迅雷下载\YUV视频播放的参考代码和YUV视频文件\VideoProcDemo\Debug\VideoProcDemo.exe
